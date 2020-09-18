@@ -1,0 +1,54 @@
+# Node related
+node_modules
+build
+npm-debug.log
+*.env
+*.DS_Store
+*.log
+
+# pycharm folders to ignore
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.vscode
+*.jar
+
+*.db
+*.sqlite3
+*.exe
+
+
+dataset*.csv
+
+# java related
+.ant-targets*
+.classpath
+.gradle
+.idea
+*.iml
+.project
+.settings
+/_eclipse/
+/local.properties
+build
+eclipse-build
+gradle.properties
+ivy*
+javadocs
+kobaltBuild
+lib
+maven-testng-plugin-1.2.jar
+nb-configuration.xml
+out
+src/generated
+target
+test-output
+test-output-tests
+testng.iml
+z_build
+.kobalt
+.DS_Store
